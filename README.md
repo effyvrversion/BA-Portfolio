@@ -7,7 +7,7 @@ Python(Pandas,Seaborn,Numpy,Matplotlib)
 
 Tableau
 
-## Project2 Artwork Analysis
+## Project2 Data Extraction and Enrichment 
 ### Info:
 The project aims to find connection between digital artwork metadata and color patterns that may shed light on broader artistic style. The extraction of source data combines web scraping and API access. Here I made an overview of Rijksmuseum metadata and a detailed analysis of two representative artists-Vincent van Gogh and Rembrandt van Rijn.
 ### Tools:
@@ -17,7 +17,7 @@ Visualization
 
 CLIP Model
 
-## Project3 SQL: Mondial Data
-Mondial is a set of tables covering country, border, economy, population and nature resource information. I select this database to explore the state of nature resource sustainability and its relation with the economy.
+## Project3 SQL
+Mondial is a set of tables covering country, border, economy, population and natural resource information. I select this database to explore the state of nature resource sustainability and its relation with the economy.
 ### Tools:
 SQL
