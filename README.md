@@ -47,7 +47,7 @@ Python(Pandas,Seaborn,Numpy,Matplotlib), Tableau
 **Skills:**
 APIs, Web Scraping, Data Cleaning, CLIP Model, Visualization, Storytelling, Digital Humanities
 
-**3. SQL** [Projects]()
+**3. SQL** [Projects](https://github.com/effyvrversion/Portfolio/tree/99bcdbd18a52a94fa6c7f787f596434a5889d684/Data%20Insights/SQL)
 
 **Description:** Mondial is a set of tables covering country, border, economy, population and natural resource information. This database explores the state of natural resource sustainability and its relation with the economy.
 
