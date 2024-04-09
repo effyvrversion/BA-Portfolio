@@ -52,4 +52,4 @@ APIs, Web Scraping, Data Cleaning, CLIP Model, Visualization, Storytelling, Digi
 
 
 ## 3.IBM Data Science 
-[DS Assignment]()
+[DS Assignment](https://github.com/effyvrversion/IBM-DS-Assignment.git)
