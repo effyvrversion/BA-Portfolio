@@ -40,7 +40,7 @@ Analyze business and humanities datasets for interesting insights.
 **Skills:**
 Python(Pandas,Seaborn,Numpy,Matplotlib), Tableau
 
-**2. Metadata Exploration & Digital Humanities Storytelling** [Projects]()
+**2. Metadata Exploration & Digital Humanities Storytelling** [Projects](https://github.com/effyvrversion/Portfolio/tree/10fb7765b1d3f9f11c67ef6f966f41d2ad2d02a1/Data%20Insights/Metadata%20%26%20Digital%20Humanities)
 
 **Description:** The project aims to find connections between digital artwork metadata and color patterns that may shed light on broader artistic style. The extraction of source data combines web scraping and API access from European GLAM institutes. Here I made an overview of the Rijksmuseum metadata and a detailed analysis of two representative artists-Van Gogh and Rembrandt van Rijn.
 
@@ -48,6 +48,7 @@ Python(Pandas,Seaborn,Numpy,Matplotlib), Tableau
 APIs, Web Scraping, Data Cleaning, CLIP Model, Visualization, Storytelling, Digital Humanities
 
 **3. SQL** [Projects]()
+
 **Description:** Mondial is a set of tables covering country, border, economy, population and natural resource information. This database explores the state of natural resource sustainability and its relation with the economy.
 
 
