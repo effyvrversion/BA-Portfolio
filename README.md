@@ -32,7 +32,7 @@ With a keen eye for detail and a passion for uncovering patterns to drive busine
 
 
 ### 2.2 Data Insights
-**1. Data Analysis via Python**
+**1. Data Analysis** [Projects]()
 
 **Description:**
 Analyze business and humanities datasets for interesting insights. 
@@ -40,14 +40,14 @@ Analyze business and humanities datasets for interesting insights.
 **Skills:**
 Python(Pandas,Seaborn,Numpy,Matplotlib), Tableau
 
-**2. Metadata Exploration & Digital Humanities Storytelling**
+**2. Metadata Exploration & Digital Humanities Storytelling** [Projects]()
 
 **Description:** The project aims to find connections between digital artwork metadata and color patterns that may shed light on broader artistic style. The extraction of source data combines web scraping and API access from European GLAM institutes. Here I made an overview of the Rijksmuseum metadata and a detailed analysis of two representative artists-Van Gogh and Rembrandt van Rijn.
 
 **Skills:**
 APIs, Web Scraping, Data Cleaning, CLIP Model, Visualization, Storytelling, Digital Humanities
 
-**3. SQL**
+**3. SQL** [Projects]()
 **Description:** Mondial is a set of tables covering country, border, economy, population and natural resource information. This database explores the state of natural resource sustainability and its relation with the economy.
 
 
