@@ -32,7 +32,7 @@ With a keen eye for detail and a passion for uncovering patterns to drive busine
 
 
 ### 2.2 Data Insights
-**1. Data Analysis** [Projects]()
+**1. Data Analysis** [Projects](https://github.com/effyvrversion/Portfolio/tree/e71f07995dcde6040b9c8688e86f516a8e96c5df/Data%20Insights/Data%20Analysis)
 
 **Description:**
 Analyze business and humanities datasets for interesting insights. 
