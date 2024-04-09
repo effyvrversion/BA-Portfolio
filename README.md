@@ -1,6 +1,6 @@
 # Business Analyst Portfolio
 
-## 1.Info:
+## 1.Info
 Hi, there!
 I'm Aona. I have a background in Financial Management, Marketing and Business Support.
 With a keen eye for detail and a passion for uncovering patterns to drive business enhancement, I'm eager to pursue opportunities as a Business Analyst.  
